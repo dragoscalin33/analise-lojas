@@ -36,10 +36,13 @@ Juntei as métricas principais:
 Depois, normalizei os dados com MinMaxScaler para comparar de forma justa. Invertemos o frete (quanto menor, melhor) e calculamos uma pontuação final média.
 Com base nos dados analisados e normalizados, conseguimos encontrar de forma justa e objetiva qual loja tem o pior desempenho geral. Essa abordagem pode ser usada em outras situações reais de negócio. A loja com a menor pontuação final foi recomendada para venda.
 
-Conclusāo:
+### 7. Conclusāo
 📉 O que está acontecendo com a Loja recomendada para venda?
-	•	Faturamento alto: Isso ajuda, mas não é tudo.
-	•	Pior avaliação média (3.98): sinal de clientes menos satisfeitos.
-	•	Frete mais caro (34.69): mais difícil manter clientes fiéis.
+
+Faturamento alto: Isso ajuda, mas não é tudo.
+
+Pior avaliação média (3.98): sinal de clientes menos satisfeitos.
+
+Frete mais caro (34.69): mais difícil manter clientes fiéis.
 
 
